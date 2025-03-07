@@ -1,4 +1,4 @@
-###🌟 Hey there! I'm Srijita Chatterjee 👋
+<h1 align="center">🌟 Hey there! I'm Srijita Chatterjee👋</h1>
 
 I'm a passionate Machine Learning Enthusiast and Full Stack Developer 🚀, on a mission to build innovative solutions and explore the magic of technology.
 
